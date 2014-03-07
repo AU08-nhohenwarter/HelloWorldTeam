@@ -9,5 +9,9 @@ public class HelloWorld {
 	public static void gruesseKeilholz(){
 		System.out.println("Schöne Grüße von Inga!");
 	}
+	
+	public static void gruesseBrinnich(){
+		System.out.println("Schöne Grüße von Selina!");
+	}
 
 }
