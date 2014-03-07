@@ -7,7 +7,7 @@ public class HelloWorld {
 	}
 	
 	public static void gruesseKeilholz(){
-		System.out.println("Schöne Grüße von Inga! :)");
+		System.out.println("Schöne Grüße von Inga!");
 	}
 	
 	public static void gruesseBrinnich(){
